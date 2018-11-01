@@ -12,7 +12,13 @@ namespace GitBreakout
         {
             Console.WriteLine("Enter a number");
             string input = Console.ReadLine();
-            int num = int.Parse(input);
+
+            // Validation for number input (while false, console prints)
+            while(!(int.TryParse(input, out int num)))
+            {
+                Console.WriteLine("That is not a number you dummy!");
+            }
+
         }
     }
 }
