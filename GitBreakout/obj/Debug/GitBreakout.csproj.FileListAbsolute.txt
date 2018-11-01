@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\GitBreakout\GitBreakout\bin\Debug\GitBreakout.exe.config
+C:\Users\seank\source\repos\GitBreakout\GitBreakout\bin\Debug\GitBreakout.exe
+C:\Users\seank\source\repos\GitBreakout\GitBreakout\bin\Debug\GitBreakout.pdb
+C:\Users\seank\source\repos\GitBreakout\GitBreakout\obj\Debug\GitBreakout.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\GitBreakout\GitBreakout\obj\Debug\GitBreakout.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\GitBreakout\GitBreakout\obj\Debug\GitBreakout.exe
+C:\Users\seank\source\repos\GitBreakout\GitBreakout\obj\Debug\GitBreakout.pdb
