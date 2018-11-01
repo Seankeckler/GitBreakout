@@ -13,6 +13,10 @@ namespace GitBreakout
             Console.WriteLine("Enter a number");
             string input = Console.ReadLine();
             int num = int.Parse(input);
+            for (int i = 0; i < num; i++)
+            {
+                Console.WriteLine(i+1);
+            }
         }
     }
 }
